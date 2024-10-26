@@ -686,7 +686,7 @@ img {
 
   .modal-close-button:focus svg,
   .modal-close-button:hover svg {         
-    fill:#ffffff;
+    fill: #ffffff;
     background-color: #404bbf; 
     border: none;
   }
